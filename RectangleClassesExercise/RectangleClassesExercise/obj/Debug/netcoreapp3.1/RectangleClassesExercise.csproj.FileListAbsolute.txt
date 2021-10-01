@@ -1,0 +1,14 @@
+C:\Users\joost\source\repos\RectangleClassesExercise\RectangleClassesExercise\bin\Debug\netcoreapp3.1\RectangleClassesExercise.exe
+C:\Users\joost\source\repos\RectangleClassesExercise\RectangleClassesExercise\bin\Debug\netcoreapp3.1\RectangleClassesExercise.deps.json
+C:\Users\joost\source\repos\RectangleClassesExercise\RectangleClassesExercise\bin\Debug\netcoreapp3.1\RectangleClassesExercise.runtimeconfig.json
+C:\Users\joost\source\repos\RectangleClassesExercise\RectangleClassesExercise\bin\Debug\netcoreapp3.1\RectangleClassesExercise.runtimeconfig.dev.json
+C:\Users\joost\source\repos\RectangleClassesExercise\RectangleClassesExercise\bin\Debug\netcoreapp3.1\RectangleClassesExercise.dll
+C:\Users\joost\source\repos\RectangleClassesExercise\RectangleClassesExercise\bin\Debug\netcoreapp3.1\RectangleClassesExercise.pdb
+C:\Users\joost\source\repos\RectangleClassesExercise\RectangleClassesExercise\obj\Debug\netcoreapp3.1\RectangleClassesExercise.csproj.AssemblyReference.cache
+C:\Users\joost\source\repos\RectangleClassesExercise\RectangleClassesExercise\obj\Debug\netcoreapp3.1\RectangleClassesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joost\source\repos\RectangleClassesExercise\RectangleClassesExercise\obj\Debug\netcoreapp3.1\RectangleClassesExercise.AssemblyInfoInputs.cache
+C:\Users\joost\source\repos\RectangleClassesExercise\RectangleClassesExercise\obj\Debug\netcoreapp3.1\RectangleClassesExercise.AssemblyInfo.cs
+C:\Users\joost\source\repos\RectangleClassesExercise\RectangleClassesExercise\obj\Debug\netcoreapp3.1\RectangleClassesExercise.csproj.CoreCompileInputs.cache
+C:\Users\joost\source\repos\RectangleClassesExercise\RectangleClassesExercise\obj\Debug\netcoreapp3.1\RectangleClassesExercise.dll
+C:\Users\joost\source\repos\RectangleClassesExercise\RectangleClassesExercise\obj\Debug\netcoreapp3.1\RectangleClassesExercise.pdb
+C:\Users\joost\source\repos\RectangleClassesExercise\RectangleClassesExercise\obj\Debug\netcoreapp3.1\RectangleClassesExercise.genruntimeconfig.cache

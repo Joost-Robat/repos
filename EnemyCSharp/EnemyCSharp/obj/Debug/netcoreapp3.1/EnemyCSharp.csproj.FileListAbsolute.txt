@@ -1,0 +1,14 @@
+C:\Users\joost\source\repos\EnemyCSharp\EnemyCSharp\obj\Debug\netcoreapp3.1\EnemyCSharp.csproj.AssemblyReference.cache
+C:\Users\joost\source\repos\EnemyCSharp\EnemyCSharp\obj\Debug\netcoreapp3.1\EnemyCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joost\source\repos\EnemyCSharp\EnemyCSharp\obj\Debug\netcoreapp3.1\EnemyCSharp.AssemblyInfoInputs.cache
+C:\Users\joost\source\repos\EnemyCSharp\EnemyCSharp\obj\Debug\netcoreapp3.1\EnemyCSharp.AssemblyInfo.cs
+C:\Users\joost\source\repos\EnemyCSharp\EnemyCSharp\obj\Debug\netcoreapp3.1\EnemyCSharp.csproj.CoreCompileInputs.cache
+C:\Users\joost\source\repos\EnemyCSharp\EnemyCSharp\bin\Debug\netcoreapp3.1\EnemyCSharp.exe
+C:\Users\joost\source\repos\EnemyCSharp\EnemyCSharp\bin\Debug\netcoreapp3.1\EnemyCSharp.deps.json
+C:\Users\joost\source\repos\EnemyCSharp\EnemyCSharp\bin\Debug\netcoreapp3.1\EnemyCSharp.runtimeconfig.json
+C:\Users\joost\source\repos\EnemyCSharp\EnemyCSharp\bin\Debug\netcoreapp3.1\EnemyCSharp.runtimeconfig.dev.json
+C:\Users\joost\source\repos\EnemyCSharp\EnemyCSharp\bin\Debug\netcoreapp3.1\EnemyCSharp.dll
+C:\Users\joost\source\repos\EnemyCSharp\EnemyCSharp\bin\Debug\netcoreapp3.1\EnemyCSharp.pdb
+C:\Users\joost\source\repos\EnemyCSharp\EnemyCSharp\obj\Debug\netcoreapp3.1\EnemyCSharp.dll
+C:\Users\joost\source\repos\EnemyCSharp\EnemyCSharp\obj\Debug\netcoreapp3.1\EnemyCSharp.pdb
+C:\Users\joost\source\repos\EnemyCSharp\EnemyCSharp\obj\Debug\netcoreapp3.1\EnemyCSharp.genruntimeconfig.cache
